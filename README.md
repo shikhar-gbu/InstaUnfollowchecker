@@ -8,7 +8,7 @@ Features
 - Works with exported/pasted Instagram lists
 
 How to Use
-1. Paste all your **followers** (one per line) into `followers.txt`
+1. Paste all your **followers** into `followers.txt`
 2. Paste all your **following** into `following.txt`
 3. Run `InstaUnfollowChecker.ipynb` in Jupyter Notebook
 
